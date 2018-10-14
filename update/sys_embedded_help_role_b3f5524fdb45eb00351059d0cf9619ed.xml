@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_69202_sample_14t.14th_oct_table_user" name="x_69202_sample_14t.14th_oct_table_user">b3f5524fdb45eb00351059d0cf9619ea</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-14 06:16:04</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b3f5524fdb45eb00351059d0cf9619ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b3f5524fdb45eb00351059d0cf9619ea</sys_name>
+        <sys_package display_value="Sample 14th OCt copy" source="x_69202_sample_14t">fc65164bdb45eb00351059d0cf961929</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Sample 14th OCt copy">fc65164bdb45eb00351059d0cf961929</sys_scope>
+        <sys_update_name>sys_embedded_help_role_b3f5524fdb45eb00351059d0cf9619ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-14 06:16:04</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
